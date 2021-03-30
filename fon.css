@@ -2,7 +2,7 @@ body {
     background-repeat: no-repeat;
     background-color: white;
     background-image: url("Фон.jpg");
-    background-size: 100% 100%;
+    background-size: 100% 200%;
     
 }
 h1 {
@@ -34,7 +34,7 @@ li {
 #pi2 {
     margin-left: 70px;
     font-size: 28px;
-    color: black;
+    color: white;
 }
 img{
     position: relative;
